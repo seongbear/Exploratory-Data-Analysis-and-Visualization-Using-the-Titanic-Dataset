@@ -6,6 +6,7 @@
 Report: https://docs.google.com/document/d/1zYD2uHx_6PYbh7mlYBBFrpg4D1OE1VKlFUxBx3nm3Cg/edit?usp=sharing
 
 Group Name: Linear Regression 
+
 Group Member: 
 1. SEONG MING ROU (22004809)
 2. KOAY MIN FENG (22004755)
